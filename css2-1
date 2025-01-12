@@ -1,0 +1,28 @@
+﻿@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/harmattan/v21/goksH6L2DkFvVvRp9XpTSw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/harmattan/v21/gokpH6L2DkFvVvRp9Xprv2mHmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/harmattan/v21/gokpH6L2DkFvVvRp9Xprk26HmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/harmattan/v21/gokpH6L2DkFvVvRp9Xpr92-HmA.ttf) format('truetype');
+}

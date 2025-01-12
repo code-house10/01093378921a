@@ -1,0 +1,49 @@
+﻿@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCMQQRrw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCBoQRrw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCEQQRrw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCHYQRrw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCJoXRrw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCKMXRrw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fustat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/fustat/v1/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCMQXRrw.ttf) format('truetype');
+}
